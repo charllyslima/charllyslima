@@ -1,13 +1,3 @@
-<style>
-.margin{
-  margin-left:6%;
-}
-table {
-  border: none;
-}
-</style>
-
-
 # 👋 Hello there!
 
 <!-- <a href="#">
