@@ -11,13 +11,13 @@
 <div>
 
 <div>
-  <a href="https://linkedin.com/in/charllysemenciano" target="_blank">
+  <a href="https://linkedin.com/in/charllyslima" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
     <a href="mailto:charllys.lima@outlook.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
-  <a href="https://linkedin.com/in/charllysemenciano" target="_blank">
+  <a href="https://charllyslima.github.io/portifolio/" target="_blank">
     <img src="https://img.shields.io/badge/website-364BD3?style=for-the-badge&logo=About.me&logoColor=white">
   </a>
   <a href="https://medium.com/@charllys.lima" target="_blank">
