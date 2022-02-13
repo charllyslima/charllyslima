@@ -39,11 +39,11 @@ I'm also a freelance developer, so if you have a great idea, an innovation, cont
 
 
 <p align="left">
-  <a href="https://github.com/charllysemerenciano/charllysemerenciano">
+  <a href="https://github.com/charllysemerenciano/charllyslima">
     <img src="https://komarev.com/ghpvc/?username=charllysemerenciano" alt="page views" />
   </a>
-  <a href="https://github.com/charllysemerenciano?tab=followers">
-    <img alt="GitHub followers" src="https://img.shields.io/github/followers/charllysemerenciano?color=green&logo=github">
+  <a href="https://github.com/charllyslima?tab=followers">
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/charllyslima?color=green&logo=github">
   </a>
 </p>
 
