@@ -32,10 +32,6 @@
 Hi, I'm <a href="#">Charllys de Lima</a>, a self-taught full-stack web developer and systems analyst. My motivation is to make innovative ideas a reality. I always look for excellence, and keep my standards as self-level as possible.
 </p>
 
-<p>
-I'm also a freelance developer, so if you have a great idea, an innovation, contact me!
-</p>
-
 
 
 <p align="left">
@@ -53,7 +49,7 @@ I'm also a freelance developer, so if you have a great idea, an innovation, cont
 
 
 - 🔭 I’m currently working on **my personal page**
-- 🌱 I’m _currently_ learning **C#**
+- 🌱 I’m _currently_ learning **Flutter**
 - 💬 Ask me about <strong>Web development</strong>
 - ⚡ Fun fact: I have two cats
 <p>If you like what i do, maybe consider buying me a coffee 🤩</p>
