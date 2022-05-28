@@ -85,8 +85,8 @@ Hi, I'm <a href="#">Charllys de Lima</a>, a self-taught full-stack web developer
 </p>
     <p>If you like what i do, maybe consider buying me a coffee 🤩</p>
 <a align="right" href="https://www.buymeacoffee.com/charllyslima" target="_blank">
-<img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="Buy Me A Tea" width="150" align="right"></a>
-<br><br>
+<img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="Buy Me A Tea" width="150"></a>
+<br>
 <img margin="right" class="margin" src="https://github-readme-stats.vercel.app/api/top-langs/?username=charllyslima&layout=compact">
     </td>
   </tr>
