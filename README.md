@@ -28,11 +28,7 @@
   </a>
 </div>
 
-<p>
-Hi, I'm <a href="#">Charllys de Lima</a>, a self-taught full-stack web developer and systems analyst. My motivation is to make innovative ideas a reality. I always look for excellence, and keep my standards as self-level as possible.
-</p>
-
-
+### Welcome to my github
 
 <p align="left">
   <a href="https://github.com/charllyslima/charllyslima">
@@ -42,23 +38,60 @@ Hi, I'm <a href="#">Charllys de Lima</a>, a self-taught full-stack web developer
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/charllyslima?color=green&logo=github">
   </a>
 </p>
+<table>
+  <tr>
+    <td>
+    
+```php
+<?php 
 
-<a href="#title">
-  <img align="right" src="./assets/gif/man_dev.gif" />
-</a>
+namespace CharllysDeLima;
 
+class About extends Me
+{
+    public function getCurrentWorkplace(): array
+    {
+        return [
+            'workplace' => [
+                'company' => 'BRQ',
+                'position' => 'Full Stack Develop'
+            ]
+        ];
+    }
 
-- 🔭 I’m currently working on **my personal page**
-- 🌱 I’m _currently_ learning **Flutter**
-- 💬 Ask me about <strong>Web development</strong>
-- ⚡ Fun fact: I have two cats
-<p>If you like what i do, maybe consider buying me a coffee 🤩</p>
-<a align="right" href="https://www.buymeacoffee.com/charllyslima" target="_blank">
-<img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="Buy Me A Tea" width="150"></a>
+    public function getProjects(): array
+    {
+        return [
+            'Personal Page' => 'Loading'
+        ];
+    }
 
+    public function getLearning(): array
+    {
+        return Flutter::class;
+    }
+}
+
+?>
+```
 
 _There's a difference between knowing the path and walking the path._ — Morpheus
+  </td>
+    <td>
+      <img align="right" src="./assets/gif/man_dev.gif"/>
+      <br><br>
+    <p>
+Hi, I'm <a href="#">Charllys de Lima</a>, a self-taught full-stack web developer and systems analyst. My motivation is to make innovative ideas a reality. I always look for excellence, and keep my standards as self-level as possible.
+</p>
+    <p>If you like what i do, maybe consider buying me a coffee 🤩</p>
+<a align="right" href="https://www.buymeacoffee.com/charllyslima" target="_blank">
+<img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="Buy Me A Tea" width="150" align="center"></a>
 <br><br>
+<img margin="right" class="margin" src="https://github-readme-stats.vercel.app/api/top-langs/?username=charllyslima&layout=compact">
+    </td>
+  </tr>
+</table>
+
 
 </div>
 
@@ -171,9 +204,9 @@ Here are some technologies I know how to use.
 </a>
 
 <div>
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=charllyslima&show_icons=true&theme=dark&icon_color=364BD3">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=charllyslima&show_icons=true&theme=dark&icon_color=364BD3">
 
-<img margin="right" class="margin" src="https://github-readme-stats.vercel.app/api/top-langs/?username=charllyslima">
+
 </div>
 
 
