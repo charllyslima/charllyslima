@@ -86,8 +86,9 @@ Hi, I'm <a href="#">Charllys de Lima</a>, a self-taught full-stack web developer
     <p>If you like what i do, maybe consider buying me a coffee 🤩</p>
 <a align="right" href="https://www.buymeacoffee.com/charllyslima" target="_blank">
 <img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="Buy Me A Tea" width="150"></a>
-<br>
-<img margin="right" class="margin" src="https://github-readme-stats.vercel.app/api/top-langs/?username=charllyslima&layout=compact">
+<br><br>
+
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=charllyslima&show_icons=true&theme=dark&icon_color=364BD3">
     </td>
   </tr>
 </table>
@@ -203,10 +204,5 @@ Here are some technologies I know how to use.
   </table>
 </a>
 
-<div>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=charllyslima&show_icons=true&theme=dark&icon_color=364BD3">
-
-
-</div>
 
 
