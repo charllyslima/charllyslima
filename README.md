@@ -53,7 +53,7 @@ class About extends Me
     {
         return [
             'workplace' => [
-                'company' => 'Gran Cursos',
+                'company'  => 'Gran Cursos',
                 'position' => 'Full Stack Develop'
             ]
         ];
@@ -63,8 +63,8 @@ class About extends Me
     {
         return [
             'Personal Page' => 'Loading',
-            'Game Mario' => 'Loading',
-            'FII Analyser' => 'Loading'
+            'Game Mario'    => 'Loading',
+            'FII Analyser'  => 'Loading'
         ];
     }
 
