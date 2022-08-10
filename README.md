@@ -62,7 +62,7 @@ class About extends Me
     public function getProjects(): array
     {
         return [
-            'Hefesto OS'  => 'loading'
+            'Hefesto OS'    => 'loading',
             'Game Mario'    => 'paused',
             'FII Analyser'  => 'paused'
         ];
