@@ -70,7 +70,10 @@ class About extends Me
 
     public function getLearning(): array
     {
-        return NextJS::class;
+        return [
+            NextJS::class,
+            Laravel::class
+        ];
     }
 }
 
