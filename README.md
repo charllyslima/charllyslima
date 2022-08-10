@@ -70,7 +70,7 @@ class About extends Me
 
     public function getLearning(): array
     {
-        return Flutter::class;
+        return NextJS::class;
     }
 }
 
