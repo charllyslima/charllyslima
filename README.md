@@ -62,9 +62,9 @@ class About extends Me
     public function getProjects(): array
     {
         return [
-            'Personal Page' => 'Loading',
-            'Game Mario'    => 'Loading',
-            'FII Analyser'  => 'Loading'
+            'FII Analyser'  => 'loading'
+            'Game Mario'    => 'paused',
+            'FII Analyser'  => 'paused'
         ];
     }
 
