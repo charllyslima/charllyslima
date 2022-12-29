@@ -62,9 +62,21 @@ class About extends Me
     public function getProjects(): array
     {
         return [
-            'Urano OS'      => 'loading',
-            'Game Mario'    => 'paused',
-            'FII Analyser'  => 'paused'
+          'coin-flip' => [
+              'type'       => Type::GAME,
+              'difficulty' => Difficulty::EASY,
+              'tech'       => Tech::JAVASCRIPT
+          ],
+          'anbient-bot' => [
+              'type'       => Type::BOT,
+              'difficulty' => Difficulty::MEDIUM,
+              'tech'       => Tech::PYTHON
+          ],
+          'qrcode-generator' => [
+              'type'       => Type::UTILITY,
+              'difficulty' => Difficulty::EASY,
+              'tech'       => Tech::JAVASCRIPT
+          ],
         ];
     }
 
@@ -94,6 +106,8 @@ Hi, I'm <a href="#">Charllys de Lima</a>, a self-taught full-stack web developer
 <br><br>
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=charllyslima&show_icons=true&theme=dark&icon_color=364BD3">
+<br><br>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=charllyslima&layout=compact&langs_count=7&theme=dracula"/>
     </td>
   </tr>
 </table>
