@@ -76,7 +76,7 @@ class About extends Me
               'type'       => Type::UTILITY,
               'difficulty' => Difficulty::EASY,
               'tech'       => Tech::JAVASCRIPT
-          ],
+          ]
         ];
     }
 
