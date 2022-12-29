@@ -107,7 +107,7 @@ Hi, I'm <a href="#">Charllys de Lima</a>, a self-taught full-stack web developer
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=charllyslima&show_icons=true&theme=dark&icon_color=364BD3">
 <br><br>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=charllyslima&layout=compact&langs_count=7&theme=dracula"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=charllyslima&layout=compact&langs_count=7&theme=dark"/>
     </td>
   </tr>
 </table>
