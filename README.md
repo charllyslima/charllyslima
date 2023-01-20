@@ -32,12 +32,13 @@
 
 <p align="left">
   <a href="https://github.com/charllyslima/charllyslima">
-    <img src="https://komarev.com/ghpvc/?username=charllyslima" alt="page views" />
+    <img src="https://komarev.com/ghpvc/?username=charllyslima&style=for-the-badge" alt="page views" />
   </a>
   <a href="https://github.com/charllyslima?tab=followers">
-    <img alt="GitHub followers" src="https://img.shields.io/github/followers/charllyslima?color=green&logo=github">
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/charllyslima?color=green&logo=github&style=for-the-badge">
   </a>
 </p>
+  
 <table>
   <tr>
     <td>
@@ -62,10 +63,10 @@ class About extends Me
     public function getProjects(): array
     {
         return [
-          'coin-flip' => [
-              'type'       => Type::GAME,
-              'difficulty' => Difficulty::EASY,
-              'tech'       => Tech::JAVASCRIPT
+          'fii-analyser' => [
+              'type'       => Type::UTILITY,
+              'difficulty' => Difficulty::MEDIUM,
+              'tech'       => Tech::PHP
           ],
           'anbient-bot' => [
               'type'       => Type::BOT,
@@ -94,22 +95,23 @@ class About extends Me
 
 _There's a difference between knowing the path and walking the path._ — Morpheus
   </td>
-    <td>
-      <img align="right" src="./assets/gif/man_dev.gif"/>
-      <br><br>
+  <td>
+    <img align="right" src="./assets/gif/man_dev.gif"/>
+    <br><br>
     <p>
 Hi, I'm <a href="#">Charllys de Lima</a>, a self-taught full-stack web developer and systems analyst. My motivation is to make innovative ideas a reality. I always look for excellence, and keep my standards as self-level as possible.
-</p>
+    </p>
     <p>If you like what i do, maybe consider buying me a coffee 🤩</p>
-<a align="right" href="https://www.buymeacoffee.com/charllyslima" target="_blank">
-<img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="Buy Me A Tea" width="150"></a>
-<br><br>
-
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=charllyslima&show_icons=true&theme=dark&icon_color=364BD3">
-<br><br>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=charllyslima&layout=compact&langs_count=7&theme=dark"/>
-    </td>
-  </tr>
+    <a align="right" href="https://www.buymeacoffee.com/charllyslima" target="_blank">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="Buy Me A Tea" width="150"></a>
+    <br><br>
+    <div align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=charllyslima&show_icons=true&theme=dark&icon_color=364BD3">
+      <br><br>
+      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=charllyslima&layout=compact&langs_count=7&theme=dark"/>
+    </div>
+  </td>
+</tr>
 </table>
 
 
