@@ -34,9 +34,6 @@
   <a href="https://github.com/charllyslima/charllyslima">
     <img src="https://komarev.com/ghpvc/?username=charllyslima&style=for-the-badge" alt="page views" />
   </a>
-  <a href="https://github.com/charllyslima?tab=followers">
-    <img alt="GitHub followers" src="https://img.shields.io/github/followers/charllyslima?color=green&logo=github&style=for-the-badge">
-  </a>
 </p>
   
 <table>
