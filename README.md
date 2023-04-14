@@ -1,15 +1,5 @@
 # 👋 Hello there!
 
-<!-- <a href="#">
-  PT-BR
-</a>
-|
-<a href="#">
-  EN
-</a> -->
-
-<div>
-
 <div>
   <a href="https://linkedin.com/in/charllyslima" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
@@ -31,15 +21,14 @@
 ### Welcome to my github
 
 <p align="left">
+<a href="https://www.github.com/charllyslima" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/github/followers/charllyslima?logo=github&style=for-the-badge" alt="follows" />
+</a>
   <a href="https://github.com/charllyslima/charllyslima">
-    <img src="https://komarev.com/ghpvc/?username=charllyslima&style=for-the-badge" alt="page views" />
+    <img src="https://komarev.com/ghpvc/?username=charllyslima&style=for-the-badge&labelColor=1c1917" alt="page views" />
   </a>
 </p>
-  
-<table>
-  <tr>
-    <td>
-    
+
 ```php
 <?php 
 
@@ -51,30 +40,9 @@ class About extends Me
     {
         return [
             'workplace' => [
-                'company'  => 'Gran Cursos',
+                'company' => 'Gran Cursos',
                 'position' => 'Full Stack Develop'
             ]
-        ];
-    }
-
-    public function getProjects(): array
-    {
-        return [
-          'fii-analyser' => [
-              'type'       => Type::UTILITY,
-              'difficulty' => Difficulty::MEDIUM,
-              'tech'       => Tech::PHP
-          ],
-          'anbient-bot' => [
-              'type'       => Type::BOT,
-              'difficulty' => Difficulty::MEDIUM,
-              'tech'       => Tech::PYTHON
-          ],
-          'qrcode-generator' => [
-              'type'       => Type::UTILITY,
-              'difficulty' => Difficulty::EASY,
-              'tech'       => Tech::JAVASCRIPT
-          ]
         ];
     }
 
@@ -85,40 +53,41 @@ class About extends Me
             Laravel::class
         ];
     }
+
 }
 
 ?>
+
 ```
 
-_There's a difference between knowing the path and walking the path._ — Morpheus
-  </td>
-  <td>
-    <img align="right" src="./assets/gif/man_dev.gif"/>
-    <br><br>
+<div style="margin-bottom: 20px;">
+    <img align="right" width="50%" src="./assets/gif/man_dev.gif" alt=""/>
     <p>
 Hi, I'm <a href="#">Charllys de Lima</a>, a self-taught full-stack web developer and systems analyst. My motivation is to make innovative ideas a reality. I always look for excellence, and keep my standards as self-level as possible.
     </p>
     <p>If you like what i do, maybe consider buying me a coffee 🤩</p>
     <a align="right" href="https://www.buymeacoffee.com/charllyslima" target="_blank">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="Buy Me A Tea" width="150"></a>
-    <br><br>
+        <img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="Buy Me A Tea" width="150">
+    </a>
+</div>
+
+<div>
     <div align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=charllyslima&show_icons=true&theme=dark&icon_color=364BD3">
-      <br><br>
-      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=charllyslima&layout=compact&langs_count=7&theme=dark"/>
+        <img src="https://github-readme-activity-graph.cyclic.app/graph?username=charllyslima&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" />
     </div>
-  </td>
-</tr>
-</table>
-
-
+    <p>
+        <img width="48%" src="https://github-readme-stats.vercel.app/api?username=charllyslima&show_icons=true&theme=dark&icon_color=364BD3" alt="">
+        <img align="right" width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=charllyslima&stroke=364BD3&background=1c1917&ring=364BD3&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff" alt=""/>
+    </p>
 </div>
 
 
 ## Languages and Tools
 
 Here are some technologies I know how to use.
+
 ### Languages
+
 <table>
     <tr>
       <td align="center" height="30" width="100">
@@ -153,6 +122,7 @@ Here are some technologies I know how to use.
     </table>
 
 ### Frameworks
+
 <table>
 <tr>
       <td align="center" height="30" width="100">
@@ -187,8 +157,8 @@ Here are some technologies I know how to use.
 </table>
 
 ### Tools
-<a>
-  <table>
+
+<table>
     <tr>
       <td align="center" height="30" width="100">
               <img src="assets/icons/composer-original.svg" width="50" height="50" alt="Composer" />
@@ -220,7 +190,6 @@ Here are some technologies I know how to use.
       </td>
     </tr>
   </table>
-</a>
 
 
 
