@@ -72,12 +72,8 @@ Hi, I'm <a href="#">Charllys de Lima</a>, a self-taught full-stack web developer
 </div>
 
 <div>
-    <div align="center">
-        <img src="https://github-readme-activity-graph.cyclic.app/graph?username=charllyslima&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" />
-    </div>
     <p>
         <img width="48%" src="https://github-readme-stats.vercel.app/api?username=charllyslima&show_icons=true&theme=dark&icon_color=364BD3" alt="">
-        <img align="right" width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=charllyslima&stroke=364BD3&background=1c1917&ring=364BD3&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff" alt=""/>
     </p>
 </div>
 
