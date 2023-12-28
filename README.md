@@ -61,7 +61,7 @@ class About extends Me
 ```
 
 <div style="margin-bottom: 20px;">
-    <img align="right" width="50%" src="./assets/gif/man_dev.gif" alt=""/>
+    <img align="right" width="50%" src="./assets/bear.png" alt=""/>
     <p>
 Hi, I'm <a href="#">Charllys de Lima</a>, a self-taught full-stack web developer and systems analyst. My motivation is to make innovative ideas a reality. I always look for excellence, and keep my standards as self-level as possible.
     </p>
@@ -93,10 +93,6 @@ Here are some technologies I know how to use.
       <td align="center" height="30" width="100">
         <img src="assets/icons/php-original.svg" width="50" height="50" alt="PHP" />
         <br>PHP
-      </td>
-      <td align="center" height="30" width="100">
-        <img src="assets/icons/java-original.svg" width="50" height="50" alt="Java" />
-        <br>Java
       </td>
       <td align="center" height="30" width="100">
         <img src="assets/icons/javascript-original.svg" width="50" height="50" alt="JavaScript" />
