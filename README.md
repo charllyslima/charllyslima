@@ -17,12 +17,8 @@
 ### Welcome to my GitHub
 
 <p align="left">
-  <a href="https://www.github.com/charllyslima" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/github/followers/charllyslima?logo=github&style=for-the-badge" alt="follows" />
-  </a>
-  <a href="https://github.com/charllyslima/charllyslima">
-    <img src="https://komarev.com/ghpvc/?username=charllyslima&style=for-the-badge&labelColor=1c1917" alt="page views" />
-  </a>
+  <a href="https://www.github.com/charllyslima" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/charllyslima?logo=github&style=for-the-badge" alt="follows" /></a>
+  <a href="https://github.com/charllyslima/charllyslima"><img src="https://komarev.com/ghpvc/?username=charllyslima&style=for-the-badge&labelColor=1c1917" alt="page views" /></a>
 </p>
 
 <div style="margin-bottom: 20px;">
