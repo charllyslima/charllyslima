@@ -5,21 +5,11 @@
 </p>
 
 <div align="center">
-  <a href="https://linkedin.com/in/charllyslima" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-  <a href="mailto:charllysemerenciano@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
-  <a href="https://charllyslima.github.io/home-page/" target="_blank">
-    <img src="https://img.shields.io/badge/Website-364BD3?style=for-the-badge&logo=About.me&logoColor=white">
-  </a>
-  <a href="https://medium.com/@charllys.lima" target="_blank">
-    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white">
-  </a>
-  <a href="https://steamcommunity.com/profiles/76561198111786126" target="_blank">
-    <img src="https://img.shields.io/badge/Steam-1F1F1F?style=for-the-badge&logo=steam&logoColor=white">
-  </a>
+  <a href="https://linkedin.com/in/charllyslima" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:charllysemerenciano@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://charllyslima.github.io/home-page/" target="_blank"><img src="https://img.shields.io/badge/Website-364BD3?style=for-the-badge&logo=About.me&logoColor=white"></a>
+  <a href="https://medium.com/@charllys.lima" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"></a>
+  <a href="https://steamcommunity.com/profiles/76561198111786126" target="_blank"><img src="https://img.shields.io/badge/Steam-1F1F1F?style=for-the-badge&logo=steam&logoColor=white"></a>
 </div>
 
 ---
