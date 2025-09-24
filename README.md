@@ -174,5 +174,5 @@ Here are some technologies I know how to use.
 ---
 
 ### 🌟 Featured Projects
-- 🔗 [ms-account-webapp](https://github.com/charllyslima/ms-account-webapp) — Vue 3 + Tailwind CSS v4 (clean, accessible).
+- 🔗 [sf-track-front](https://github.com/charllyslima/sf-track-frontend) — NextJS + Tailwind CSS v4 (clean, accessible).
 - 🔗 [sf-track-backend](https://github.com/charllyslima/sf-track-backend) — Laravel 12, Clean Architecture, schedulers & jobs.
